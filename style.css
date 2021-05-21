@@ -1,0 +1,33 @@
+img{
+  height:300px;
+  width:300px;
+  border-radius:150px;
+}
+
+.sec1{
+  text-align:center;
+background-color:darkturquoise;
+
+}
+p{
+  font-size:25px
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    
+}
+.link:hover{
+background-color:aqua;  
+}
+
+.sec2{
+text-align: center;
+    background-color:darkcyan;
+    
+}
